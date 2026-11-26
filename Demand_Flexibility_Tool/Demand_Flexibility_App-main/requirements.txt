@@ -17,3 +17,4 @@ tensorflow>=2.13.0
 pvlib>=0.10.0
 fastapi
 uvicorn
+python-multipart
